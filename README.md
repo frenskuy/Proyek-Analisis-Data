@@ -1,6 +1,6 @@
 # 🚴 Bike Rental Analysis Dashboard
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://frenkydataanalysisproject.streamlit.app/)
+![Dashboard Preview]([assets/dashboard-preview.png](https://github.com/frenskuy/Proyek-Analisis-Data/blob/main/.devcontainer/preview.jpg))
 
 
 ## 📌 Overview
