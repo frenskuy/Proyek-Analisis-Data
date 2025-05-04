@@ -1,6 +1,3 @@
-Here's the copy-paste ready version for your `README.md`:
-
-```markdown
 # 🚴 Bike Rental Analysis Dashboard
 
 ## 📌 Overview
