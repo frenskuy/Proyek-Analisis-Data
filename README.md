@@ -1,6 +1,6 @@
 # 🚴 Bike Rental Analysis Dashboard
 
-![Dashboard Preview]([assets/dashboard-preview.png](https://github.com/frenskuy/Proyek-Analisis-Data/blob/main/.devcontainer/preview.jpg))
+![alt text]([assets/dashboard-preview.png](https://github.com/frenskuy/Proyek-Analisis-Data/blob/main/.devcontainer/preview.jpg))
 
 
 ## 📌 Overview
