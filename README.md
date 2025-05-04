@@ -1,5 +1,8 @@
 # 🚴 Bike Rental Analysis Dashboard
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://frenkydataanalysisproject.streamlit.app/)
+
+
 ## 📌 Overview
 This interactive dashboard provides insights into bike rental patterns through data visualization and exploratory analysis. The project analyzes how weather conditions, day types, and temporal factors affect bike rental demand.
 
