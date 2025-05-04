@@ -69,3 +69,6 @@ proyek-analisis-data/
 **Frenky Riski Gilang Pratama**  
 - Dicoding ID: m179b4ky1559  
 - Bangkit Mail: m179b4ky1559@bangkit.academy
+
+## 🏆Certificates
+[EDA](https://www.dicoding.com/certificates/JLX14GNRNX72)
