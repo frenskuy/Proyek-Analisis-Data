@@ -208,6 +208,6 @@ with tab4:
 # Add footer
 st.divider()
 st.markdown("""
-    *This dashboard was created as part of the Bangkit Academy Capstone Project.*  
+    *This dashboard was created as part of the Bangkit Academy.*  
     *Data source: [Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)*
 """)
