@@ -3,6 +3,8 @@
 ## 📌 Overview
 This interactive dashboard provides insights into bike rental patterns through data visualization and exploratory analysis. The project analyzes how weather conditions, day types, and temporal factors affect bike rental demand.
 
+**Live Demo**: [https://frenkydataanalysisproject.streamlit.app/](https://frenkydataanalysisproject.streamlit.app/)
+
 ## 🎯 Business Questions Answered
 1. **Weather Impact**: How do different weather conditions affect hourly bike rentals?
 2. **Day Type Analysis**: How do rental patterns differ between working days and holidays?
@@ -56,6 +58,7 @@ proyek-analisis-data/
 ├── day.csv               # Daily rental data
 ├── hour.csv              # Hourly rental data
 ├── README.md             # Project documentation
+├── url.txt               # the url streamlit
 └── requirements.txt      # Dependency list
 ```
 
