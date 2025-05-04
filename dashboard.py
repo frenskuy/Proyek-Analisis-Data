@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-import io  # Added this import to fix the error
+import io  
 from PIL import Image
 
 # Set page configuration
